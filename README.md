@@ -2,6 +2,8 @@ This repo contain anwers for 2 different algorhythmic tasks.
 
 Works guaranteed on Python 2.7.9
 
+In Neighbours voronoi.py is python module from https://svn.osgeo.org/qgis/trunk/qgis/python/plugins/fTools/tools/voronoi.py
+
 
 Neighbours
 
