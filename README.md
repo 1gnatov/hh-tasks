@@ -3,7 +3,7 @@ This repo contain anwers for 2 different algorhythmic tasks.
 
 Neighbours
 
-       For every point in list find its Radius (= distance to nearest other point) and neighbours (by default
+       for every point in list find its Radius (= distance to nearest other point) and neighbours (by default
        points in Radius * 2, can be changed calling function findNeighbourOnMinRadiusMultiplyN with second optional parametr)
      
        Result:
@@ -64,8 +64,9 @@ Neighbours
         >>>((8, 1), 1.4142135623730951, [(7, 2)])
         >>>((9, 6), 4.47213595499958, [(2, 3), (3, 3.6), (4, 7), (5, 4), (7, 2), (8, 1)])
 
-inttokpartition
-     Calculate how many unic partitons of integers with exactly k elements can be
+Inttokpartition
+
+     calculate how many unic partitons of integers with exactly k elements can be
   
      USAGE:
      First parameter: n = integer to partioning
