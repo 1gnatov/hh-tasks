@@ -65,11 +65,11 @@ Neighbours
         >>>((9, 6), 4.47213595499958, [(2, 3), (3, 3.6), (4, 7), (5, 4), (7, 2), (8, 1)])
 
 inttokpartition
-    Calculate how many unic partitons of integers with exactly k elements can be
+     Calculate how many unic partitons of integers with exactly k elements can be
   
-    USAGE:
-    First parameter: n = integer to partioning
-    Second parameter: k = elements of partition
+     USAGE:
+     First parameter: n = integer to partioning
+     Second parameter: k = elements of partition
     
     
     * as module
