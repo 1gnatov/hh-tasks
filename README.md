@@ -1,4 +1,5 @@
 This repo contain anwers for 2 different algorhythmic tasks.
+
 Works guaranteed on Python 2.7.9
 
 Neighbours
