@@ -6,7 +6,7 @@ Works guaranteed on Python 2.7.9
 Neighbours
 
        for every point in list find its Radius (= distance to nearest other point) and neighbours 
-       (by defaultpoints in Radius * 2, can be changed calling 
+       (by default points in Radius * 2, can be changed calling 
        function findNeighbourOnMinRadiusMultiplyN with second optional parametr)
      
        Result:
