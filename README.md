@@ -14,6 +14,7 @@ Neighbours
     USAGE:
   
     * as module
+    
       import neighbours.py
       list = [(2,3), (3,3.6), (4,7), (5,4), (7,2), (8,1), (9,6)]
       result = findNeighbourOnMinRadiusMultiplyN(listOfPoints(list))
@@ -74,6 +75,7 @@ Inttokpartition
     
     
     * as module
+    
       import inttokpartition.py
       result = calcIntegerExactlyKPartition(6, 3)
       print(result)
