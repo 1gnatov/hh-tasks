@@ -2,6 +2,7 @@ This repo contain anwers for 2 different algorhythmic tasks.
 
 Works guaranteed on Python 2.7.9
 
+
 Neighbours
 
        for every point in list find its Radius (= distance to nearest other point) and neighbours (by default
