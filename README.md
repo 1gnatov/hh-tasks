@@ -1,11 +1,12 @@
 This repo contain anwers for 2 different algorhythmic tasks.
 
 
-neighbours
-      For every point in list find its Radius (= distance to nearest other point) and neighbours (by default
-      points in Radius * 2, can be changed calling function findNeighbourOnMinRadiusMultiplyN with second optional parametr)
+Neighbours
+
+       For every point in list find its Radius (= distance to nearest other point) and neighbours (by default
+       points in Radius * 2, can be changed calling function findNeighbourOnMinRadiusMultiplyN with second optional parametr)
      
-      Result:
+       Result:
        Result is list with tuples, tuple linked with points in pointList by same indexes
        First element in tuple is minRadius of point, which means distance to nearest other point
        Second element in tuple is set of point indexes, which lay in MULTRADIUS*minRadius to point
